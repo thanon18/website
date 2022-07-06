@@ -30,4 +30,10 @@ body {
       color: rgb(72, 9, 189);
 
   }
+
+  .graphic{
+    background-image: url("images/chantaburi-cover.jpeg");
+    height: 320px;
+    padding: auto;
+  }
   
