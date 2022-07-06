@@ -26,9 +26,13 @@ body {
     margin: 0 auto;
   }
 
-  .headname {
+  .headname1 {
       color: rgb(72, 9, 189);
 
+  }
+
+  .headname2{
+    color: rgb(5, 176, 255);
   }
 
   .graphic{
