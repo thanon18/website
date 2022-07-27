@@ -51,6 +51,12 @@ body {
     padding: 10px;
   }
 
+  .img10{
+    width: 190px;
+    border-radius: 10px;
+  }
+  
+
   .topmenu{
     background-color: rgb(0, 255, 221);
     height: 40px;
