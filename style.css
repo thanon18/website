@@ -50,4 +50,21 @@ body {
     background-color: ghostwhite;
     padding: 10px;
   }
+
+  .topmenu{
+    background-color: rgb(0, 255, 221);
+    height: 40px;
+  }
+
+  .topmenu ul{
+    list-style-type: disc;
+    margin: auto;
+    display: flex;
+    justify-content: left;
+  }
+
+  .topmenu li{
+    float: right;
+    padding: 10px 40px;
+  }
   
